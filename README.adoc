@@ -1,3 +1,6 @@
+TEST
+
+
 = Hawkular Services
 
 ifdef::env-github[]
